@@ -1,8 +1,8 @@
 # Hi there, I'm Soumya Naiya! 👋
 
-### 🎓 CS Student | 💻 Full-Stack Developer | 🤖 AI/ML Enthusiast
+### 🎓 CS Student | 🤖 AI/ML Enthusiast
 
-I'm a Computer Science undergraduate from Bhubaneswar, Odisha, passionate about building web applications and exploring machine learning and AI.
+I'm a Computer Science undergraduate from Bhubaneswar, Odisha, passionate about exploring machine learning and AI.
 
 ---
 
@@ -20,14 +20,9 @@ I'm a Computer Science undergraduate from Bhubaneswar, Odisha, passionate about 
 **Languages:**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Frameworks & Tools:**
+**Tools:**
 
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
@@ -41,10 +36,6 @@ I'm a Computer Science undergraduate from Bhubaneswar, Odisha, passionate about 
 **Design:**
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-**Databases:**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
